@@ -1,0 +1,8 @@
+{
+  "version": "0.5.0",
+  "title": "Highlight Monkey",
+  "description": "This plug-in aims to monkey patch in better code-highlighting support for microbloggers.",
+  "includes": [
+    "highlight-monkey-head.html"
+  ]
+}

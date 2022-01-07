@@ -1,0 +1,1 @@
+{{ if len .Params | eq 2 }}{{ replace (highlight .Inner (.Get 0) (.Get 1)) "&amp;#123;" "{" | safeHTML }}{{ else }}{{ replace (highlight .Inner (.Get 0) "") "&amp;#123;" "{" | safeHTML }}{{ end }}
