@@ -4,6 +4,12 @@ Hugo comes with a built-in `{{< highlight >}}` shortcode that works… ok on a M
 
 As of now, this plug-in is not even alpha. It's a proof of concept.
 
+## Do you get value from Highlight Monkey? I'd love your support!
+
+Hey! It's me, Sven. Highlight Monkey and my other plug-ins are passion projects released to the world for free. That said, donations are always welcome if you get value from my work.
+
+[💸 Donate $10](https://dahlstrand.net/donate/) or any amount you're comfortable with. Thanks! 🙏
+
 ## Install the plug-in
 
 1. [Follow this link](https://micro.blog/account/themes/new?plugin=1) or manually go to *Design* → *Edit Custom Themes* and press *New Plug-in*.
